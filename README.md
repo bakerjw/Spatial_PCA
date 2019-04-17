@@ -2,7 +2,7 @@
 
 This data and set of Matlab scripts implements methodology presented in:
 
-M. Markhvida, L. Ceferino, and J. Baker. “Modeling spatially correlated spectral accelerations at multiple periods using principal component analysis and geostatistics”. In: Earthquake Engineering & Structural Dynamics In Review (2017).
+Markhvida, M., Ceferino, L., and Baker, J. W. (2018). “Modeling spatially correlated spectral accelerations at multiple periods using principal component analysis and geostatistics.” Earthquake Engineering & Structural Dynamics, 47(5), 1107–1123.
 
 The script MAIN_sample.m calls the other scripts in the folder, provides some comments, and can be helpful for understanding and using the code in this repository.
 
